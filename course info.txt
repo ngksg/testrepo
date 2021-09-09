@@ -1,24 +1,2 @@
 
-Target:
-IBM Data Science Professional Certificate
-IBM Data Analyst Professional Certificate
-Statistics with Python Specialization
-
-
-Next:
-
-Google Data Analytics Professional Certificate
-
-Excel Skills for Business Specialization
-
-Google Career Certificates
-
-IBM Data Science Professional Certificate
-
-SAS Programmer Professional Certificate
-
-HTML?
-
-R
-
-SQL
+testing
